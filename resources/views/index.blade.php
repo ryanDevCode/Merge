@@ -26,6 +26,8 @@
             <div class="card">
                 <div class="card-header">
                     <h5>Kick start your project development !</h5>
+                    <h1>Blanko?</h1>
+                    <h1>Blangko</h1>
                     <div class="card-header-right">
                         <ul class="list-unstyled card-option">
                             <li><i class="fa fa-spin fa-cog"></i></li>
