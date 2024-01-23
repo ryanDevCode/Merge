@@ -1,0 +1,2 @@
+ add a auth group to prevent the user to go back to login, register page if they already login
+
